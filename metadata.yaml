@@ -1,0 +1,37 @@
+_repo: All-Cats-Are-Gray_29019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29019-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - North, Andrew
+    - Norton, Andre Alice
+    - Norton, Alice Mary
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: Under normal conditions a whole person has a decided advantage over a
+  handicapped one. But out in deep space the normal may be reversed--for humans at
+  any rate.
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2009-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: All Cats Are Gray
+url: http://www.gutenberg.org/ebooks/29019
